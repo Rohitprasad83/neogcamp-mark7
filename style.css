@@ -1,3 +1,56 @@
 body {
-  color: black;
+  width: 100%;
+  margin: 0 auto;
 }
+
+#header {
+  padding: 1rem;
+  text-align: center;
+  background-color: pink;
+}
+.container {
+  max-width: 560px;
+  padding: 1rem;
+  margin: auto;
+  place-content: center;
+  display: block;
+}
+
+textarea {
+  width: 90%;
+  padding: 0.5rem;
+  padding: 1rem;
+  display: block;
+  margin: auto;
+}
+
+#btn-input {
+  background-color: pink;
+  height: 50px;
+  width: 200px;
+  border: 1px solid black;
+  border-radius: 0.5rem;
+  display: block;
+  margin: 1rem auto;
+  padding: 1rem;
+}
+
+#output-txt {
+  height: 10vh;
+  width: 90%;
+  border: 1px solid black;
+  display: block;
+  margin: 1rem auto;
+  padding: 1rem;
+}
+
+/* #footer {
+  background-color: pink;
+  padding: 1rem;
+  text-align: center;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  padding: 1rem;
+  margin-left: 0;
+} */
