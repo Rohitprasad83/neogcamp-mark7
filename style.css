@@ -1,6 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap");
+
 body {
   width: 100%;
   margin: 0 auto;
+  font-family: "Roboto", sans-serif;
 }
 
 #header {
@@ -54,5 +57,7 @@ textarea {
 }
 
 #footer p {
+  max-width: 85%;
+  margin: auto;
   padding: 1rem;
 }
