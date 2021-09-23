@@ -47,6 +47,7 @@ textarea {
   border: 1px solid black;
   display: block;
   margin: 1rem auto;
+  margin-bottom: 50px;
   padding: 1rem;
   overflow-y: auto;
 }
