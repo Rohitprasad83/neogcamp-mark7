@@ -4,7 +4,7 @@ This is a pig latin translator. Pig Latin, or "Igpay Atinlay" is a language game
 ---
 
 ## **Interface of the app**
-<img src="./images/interface.png" alt="interface" width="450" height="300"/>
+<img src="./images/interface.png" alt="interface" width="600" height="300"/>
 
 ---
 ## **How to use the app**
